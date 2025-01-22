@@ -1,0 +1,26 @@
+[
+  {
+      "name": "cd",
+      "className": "commands.CdCommand"
+  },
+  {
+      "name": "echo",
+      "className": "commands.EchoCommand"
+  },
+  {
+      "name": "exit",
+      "className": "commands.ExitCommand"
+  },
+  {
+      "name": "pwd",
+      "className": "commands.PwdCommand"
+  },
+  {
+      "name": "type",
+      "className": "commands.TypeCommand"
+  },
+  {
+    "name": "clear",
+    "className": "commands.ClearCommand"
+  }
+]
